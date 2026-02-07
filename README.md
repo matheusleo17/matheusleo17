@@ -6,7 +6,13 @@
 📍 Brasil — São Paulo 🌎
 
 ---
-
+### ⚙️ Backend & Ferramentas
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ### 🔗 Navegação
 [Tech Stack](#-tech-stack) • [Projetos](#-projetos) • [Arquitetura](#-arquitetura--boas-práticas) • [Contato](#-contato)
 
