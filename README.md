@@ -1,9 +1,9 @@
 ## Hi there 👋
-# 👋 Olá, eu sou o Matheus Souza
+# 👋 Olá, eu sou o Matheus Léo
 
-🚀 **Backend Developer | C# • .NET • Clean Architecture**
+🚀 **Backend Developer | C# |.NET| Clean Architecture**
 
-📍 Brasil — *Open to work & Remote opportunities* 🌎
+📍 Brasil — São Paulo 🌎
 
 ---
 
