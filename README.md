@@ -97,6 +97,6 @@ Sistema educacional para simular transações seguras de ingressos.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-l%C3%A9o/
+- 💼 LinkedIn: (https://www.linkedin.com/in/matheusleo17/)
 - 📧 Email: ms961086@gmail.com
 
